@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">switchingscreen</string>
+
+    <string name="hello">hello!</string>
+    <string name="action_setting">settings</string>
+    <string name="linking">
+        <a href= "https://open.spotify.com/collection/tracks">Your spotify account..</a>
+    </string>
+</resources>
